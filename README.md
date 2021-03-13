@@ -1,2 +1,2 @@
 # Python-Practice
-projects for data-processing and web-scraping
+Python learning projects for data-processing and web-scraping
